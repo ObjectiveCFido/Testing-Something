@@ -1,6 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
 body {
 	margin-left: -20px;
 	margin-right: -20px;
+}
+
+.content {
+	background-image: url("http://a.abcnews.go.com/images/US/GTY_NY_Jets_mm_160127_12x5_1600.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 700px;
 }
 
 ul.topnav {
@@ -60,4 +69,11 @@ ul.topnav li.icon {
 		display: block;
 		text-align: left;
 	}
+}
+
+.title {
+	font-family: 'Baloo', sans-serif;
+	font-size: 62pt;
+	margin-top: 200px;
+	color: white;
 }
