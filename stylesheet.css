@@ -8,7 +8,7 @@ ul.topnav {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #333;
+	background-color: #003300;
 }
 
 ul.topnav li {
@@ -26,7 +26,7 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover {
-	background-color: #555;
+	background-color: #004A23;
 }
 
 ul.topnav li.icon {
