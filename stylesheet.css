@@ -49,6 +49,7 @@ ul.topnav li.icon {
 	ul.topnav li.icon {
 		float: right;
 		display: inline-block;
+		display: inline-block;
 	}
 }
 
@@ -74,6 +75,7 @@ ul.topnav li.icon {
 .title {
 	font-family: 'Baloo', sans-serif;
 	font-size: 62pt;
-	margin-top: 200px;
+	margin-top: 150px;
+	margin-right: 770px;
 	color: white;
 }
