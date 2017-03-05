@@ -91,3 +91,8 @@ ul.topnav li.icon {
 .scrl:hover {
 	color: black;
 }
+
+.form-cont {
+	margin-left: 150px;
+	margin-right: 150px;
+}
