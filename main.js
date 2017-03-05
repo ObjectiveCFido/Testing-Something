@@ -6,18 +6,19 @@ $(document).ready(function () {
 		var msg = document.getElementById("txt").value;
 		
 		if (name == "") {
-			document.getElementById("1").className += " has-danger";
-			document.getElementById("name").className += " form-control-danger";
+			document.getElementById("1").className += " has-error";
+			document.getElementById("1").className += " has-feedback";
 		}
 		
 		if (email == "") {
-			document.getElementById("2").className += " has-danger";
-			document.getElementById("email").className += " form-control-danger";
+			document.getElementById("2").className += " has-error";
+			document.getElementById("2").className += " has-feedback";
+	
 		}
 		
 		if (msg == "") {
-			document.getElementById("3").className += " has-danger";
-			document.getElementById("txt").className += " form-control-danger";
+			document.getElementById("3").className += " has-error";
+			document.getElementById("3").className += " has-feedback";			
 		}
 	})
 });
