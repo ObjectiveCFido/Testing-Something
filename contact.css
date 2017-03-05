@@ -5,6 +5,12 @@ body {
 	margin-right: -20px;
 }
 
+.content {
+	background-image: url("http://www.goodearth-inc.com/wp-content/uploads/football-field-hd-wallpapers.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+}
 ul.topnav {
 	list-style-type: none;
 	margin: 0;
@@ -69,6 +75,5 @@ ul.topnav li.icon {
 	font-family: 'Baloo', sans-serif;
 	font-size: 62pt;
 	margin-top: 150px;
-	margin-right: 770px;
 	color: white;
 }
